@@ -1,0 +1,24 @@
+[submodule "section-1-refresher/basic-solc-project/lib/forge-std"]
+	path = section-1-refresher/basic-solc-project/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "section-1-refresher/basic-solc-project/lib/openzeppelin-contracts"]
+	path = section-1-refresher/basic-solc-project/lib/openzeppelin-contracts
+	url = https://github.com/Openzeppelin/openzeppelin-contracts
+[submodule "section-3-first-audit/3-passwordstore-audit"]
+	path = section-3-first-audit/3-passwordstore-audit
+	url = git@github.com:Cyfrin/3-passwordstore-audit.git
+[submodule "section-4-puppy-raffle/4-puppy-raffle-audit"]
+	path = section-4-puppy-raffle/4-puppy-raffle-audit
+	url = git@github.com:Cyfrin/4-puppy-raffle-audit.git
+[submodule "section-5-t-swap/5-t-swap-audit"]
+	path = section-5-t-swap/5-t-swap-audit
+	url = https://github.com/Cyfrin/5-t-swap-audit
+[submodule "section-5-t-swap/exercise/fuzzing-exercise/lib/forge-std"]
+	path = section-5-t-swap/exercise/fuzzing-exercise/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "section-6-thunder-loan/6-thunder-loan-audit"]
+	path = section-6-thunder-loan/6-thunder-loan-audit
+	url = git@github.com:Cyfrin/6-thunder-loan-audit.git
+[submodule "section-7-boss-bridge/7-boss-bridge-audit"]
+	path = section-7-boss-bridge/7-boss-bridge-audit
+	url = git@github.com:Cyfrin/7-boss-bridge-audit.git
