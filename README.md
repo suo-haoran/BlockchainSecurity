@@ -2,7 +2,7 @@
 
 [Yet Another Patrick's Great Course](https://www.youtube.com/watch?v=pUWmJ86X_do)
 
-[Current Timestamp](https://youtu.be/pUWmJ86X_do?t=2387)
+[Current Timestamp](https://youtu.be/pUWmJ86X_do?feature=shared&t=63695)
 
 ## Prereqs
 
